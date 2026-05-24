@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AssetFlow — Employee Inventory Management System
 
 A full-stack web application for managing company assets (laptops, monitors, phones, accessories) with an **event-driven** architecture — all asset status is derived from an `asset_events` table, never stored directly.
@@ -197,3 +198,6 @@ FRONTEND_URL=http://localhost:5173
 ```env
 VITE_API_URL=http://localhost:5000/api
 ```
+=======
+# genblaze
+>>>>>>> ce6eba98f562a55d5ab0ae4fec2a728e83b6466f
